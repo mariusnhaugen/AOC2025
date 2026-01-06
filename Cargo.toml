@@ -1,0 +1,56 @@
+[package]
+name = "AOC_2025"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "aoc"
+path = "aoclib.rs"
+
+[[bin]]
+name = "day1"
+path = "day1.rs"
+
+[[bin]]
+name = "day2"
+path = "day2.rs"
+
+[[bin]]
+name = "day3"
+path = "day3.rs"
+
+[[bin]]
+name = "day4"
+path = "day4.rs"
+
+[[bin]]
+name = "day5"
+path = "day5.rs"
+
+[[bin]]
+name = "day6"
+path = "day6.rs"
+
+[[bin]]
+name = "day7"
+path = "day7.rs"
+
+[[bin]]
+name = "day8"
+path = "day8.rs"
+
+[[bin]]
+name = "day9"
+path = "day9.rs"
+
+[[bin]]
+name = "day10"
+path = "day10.rs"
+
+[[bin]]
+name = "day11"
+path = "day11.rs"
+
+[[bin]]
+name = "day12"
+path = "day12.rs"
